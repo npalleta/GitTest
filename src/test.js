@@ -10,7 +10,7 @@ class MyClass {
   }
 
   test() {
-    console.log('This is a test A B C');
+    console.log('This is a test A B C D F G H I J K');
   }
 }
 
