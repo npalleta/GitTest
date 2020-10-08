@@ -8,6 +8,10 @@ class MyClass {
   get methodA() {
     return 'This is the method A';
   }
+
+  test() {
+    return 'This is a test';
+  }
 }
 
 var myclass = new MyClass('1234');
