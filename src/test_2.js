@@ -7,6 +7,10 @@ class Foo {
     }
 
     another() {
+        return 'false';
+    }
+
+    anotherTwo() {
         return 'true';
     }
 }
