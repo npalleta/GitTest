@@ -7,7 +7,11 @@ class Foo {
     }
 
     another() {
-        return 'true';
+        return 'false';
+    }
+
+    anotherTwo(bool) {
+        if (bool === true) { return 'OK'; }
     }
     
     methodB () {
