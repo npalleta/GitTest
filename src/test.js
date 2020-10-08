@@ -11,6 +11,7 @@ class MyClass {
 
   test() {
     console.log('This is a test');
+    console.log('Hello Word!');
   }
 }
 
