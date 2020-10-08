@@ -7,7 +7,7 @@ class Foo {
     }
 
     another() {
-        return 'false';
+        return 'true';
     }
 
     anotherTwo(bool) {
