@@ -12,6 +12,7 @@ class MyClass {
   test() {
     console.log('This is a test');
     console.log('Hello Word!');
+    console.log('Hello Word! ABC');
   }
 }
 
