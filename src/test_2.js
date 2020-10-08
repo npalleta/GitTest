@@ -10,7 +10,7 @@ class Foo {
         return 'false';
     }
 
-    anotherTwo() {
-        return 'true';
+    anotherTwo(bool) {
+        if (bool === true) { return 'OK'; }
     }
 }
