@@ -3,7 +3,7 @@
 class Foo {
 
     methodA () {
-        return 'Hi, dev';
+        return 'Hi, dev... I am the new dev, ok?';
     }
 
     another() {
