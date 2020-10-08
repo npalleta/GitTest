@@ -11,6 +11,9 @@ class Foo {
     }
 
     methodC () {
+        // Teste Merge
+        console.log('Give me more');
+        // return
         return 'Down in a hole';
     }
 }
