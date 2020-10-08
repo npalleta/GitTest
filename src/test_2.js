@@ -12,7 +12,7 @@ class Foo {
 
     methodC () {
         // Teste Merge
-        console.log('Give me more');
+        console.log('Give me more and more and more and more');
         // return
         return 'Down in a hole';
     }
