@@ -4,6 +4,10 @@ class MyClass {
   constructor(name) {
       console.log("I am a MyClass object .. ", name);
   }
+
+  get methodA() {
+    return 'This is the method A';
+  }
 }
 
 var myclass = new MyClass('1234');
