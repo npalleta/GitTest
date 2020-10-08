@@ -5,4 +5,8 @@ class Foo {
     methodA () {
         return 'Hi, dev';
     }
+
+    another() {
+        return 'true';
+    }
 }
